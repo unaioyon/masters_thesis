@@ -1,4 +1,4 @@
-*Master's thesis: Evaluating Low-Speed Zones in Paris: A Quasi-Experimental Approach to the Zones 30*
+**Master's thesis: Evaluating Low-Speed Zones in Paris: A Quasi-Experimental Approach to the Zones 30**
 
 This is a repo gathering all the relevant code and data for the replication of the empirical analysis in my master's thesis.
 
